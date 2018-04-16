@@ -1,1 +1,1 @@
-# dii_app_api
+# School Mangement System API
